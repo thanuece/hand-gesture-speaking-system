@@ -1,2 +1,2 @@
-# my-first_project
-Speaking system for mute people using hand gestures
+# Hand Gesture Based Speaking System
+This project helps mute people communicate using hand gestures.
