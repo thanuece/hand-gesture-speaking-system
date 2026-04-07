@@ -1,0 +1,13 @@
+# Hand Gesture Based Speaking System
+
+## Description
+This project converts hand gestures into voice using MPU6050.
+
+## Hardware Required
+- Arduino Uno
+- MPU6050 Sensor
+- HC-05 Bluetooth Module
+- Jumper wires
+
+## Software Used
+- Arduino IDE 
