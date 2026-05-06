@@ -24,13 +24,13 @@ void loop() {
         Serial.println("Gesture Detected: Hello"); 
     } else if (ax < -15000) { 
         BT.println("Goodbye"); 
-        Serial.println("Gesture Detected: Goodbye"); 
+        Serial.println("Gesture Detected: can you take me to this address"); 
     } else if (ay > 15000) { 
         BT.println("Yes"); 
-        Serial.println("Gesture Detected: Yes"); 
+        Serial.println("Gesture Detected: I need my medicine"); 
     } else if (ay < -15000) { 
         BT.println("No"); 
-        Serial.println("Gesture Detected: No"); 
+        Serial.println("Gesture Detected: I am sick"); 
     } else if (az > 15000) { 
         BT.println("Thank You"); 
         Serial.println("Gesture Detected: Thank You"); 
