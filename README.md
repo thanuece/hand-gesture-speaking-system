@@ -23,11 +23,11 @@ This project presents a hand gesture-based communication system that detects use
 
 ##  Block Diagram
 
-![Block Diagram](Block diagram.jpeg)
+[Block Diagram](Block diagram.jpeg)
 
 ##  Circuit Diagram
 
-![Circuit Diagram](Circuit diagram.jpeg)
+[Circuit Diagram](Circuit diagram.jpeg)
 
 ##  Working
 
@@ -37,7 +37,7 @@ Once a gesture is recognized, the system generates corresponding text output, al
 
 ##  Demo Video
 
-[Watch Demo](
+[Watch Demo](vedio.mp4)
 
 ##  How to Run
 
@@ -61,4 +61,4 @@ Once a gesture is recognized, the system generates corresponding text output, al
 
 ##  Project Image
 
-![Project Image](Project image.jpeg)
+[Project Image](Project image.jpeg)
