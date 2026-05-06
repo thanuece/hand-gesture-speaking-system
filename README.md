@@ -32,7 +32,7 @@ This project presents a hand gesture-based communication system that detects use
 ##  Working
 
 The system captures hand gestures using sensors or input devices.
-These gestures are processed by the Arduino microcontroller, which maps each gesture to a predefined speech output.
+These gestures are processed by the Arduino microcontroller, which maps each gesture to a predefined text output.
 Once a gesture is recognized, the system generates corresponding text output, allowing the user to communicate effectively.
 
 ##  Demo Video
