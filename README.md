@@ -5,12 +5,12 @@ Mute individuals face significant challenges in communicating with others in dai
 
 ##  Solution
 
-This project presents a hand gesture-based communication system that detects user gestures and converts them into speech output, enabling mute individuals to communicate more effectively with others.
+This project presents a hand gesture-based communication system that detects user gestures and converts them into text output, enabling mute individuals to communicate more effectively with others.
 
 ##  Features
 
 * Real-time hand gesture detection
-* Converts gestures into speech output
+* Converts gestures into text  output
 * User-friendly and assistive system
 * Can be used in real-world communication scenarios
 
